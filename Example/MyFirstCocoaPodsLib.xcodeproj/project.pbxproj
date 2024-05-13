@@ -43,7 +43,7 @@
 		607FACE51AFB9204008FA782 /* MyFirstCocoaPodsLib_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyFirstCocoaPodsLib_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		9C61416C8415D49BBF616BCB /* MyFirstCocoaPodsLib.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MyFirstCocoaPodsLib.podspec; path = ../MyFirstCocoaPodsLib.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9C61416C8415D49BBF616BCB /* MyFirstCocoaPodsLib0513.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MyFirstCocoaPodsLib0513.podspec; path = ../MyFirstCocoaPodsLib0513.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9CA67154E84796C8660AADED /* Pods-MyFirstCocoaPodsLib_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyFirstCocoaPodsLib_Tests.debug.xcconfig"; path = "Target Support Files/Pods-MyFirstCocoaPodsLib_Tests/Pods-MyFirstCocoaPodsLib_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		A506A4F2B30723F0AB3659A3 /* Pods_MyFirstCocoaPodsLib_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyFirstCocoaPodsLib_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B384F8528459AAC9253509E5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
@@ -143,7 +143,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				9C61416C8415D49BBF616BCB /* MyFirstCocoaPodsLib.podspec */,
+				9C61416C8415D49BBF616BCB /* MyFirstCocoaPodsLib0513.podspec */,
 				37B4BAC01E3D5755A3C8D937 /* README.md */,
 				B384F8528459AAC9253509E5 /* LICENSE */,
 			);

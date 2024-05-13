@@ -53,7 +53,7 @@
 		70666DF09AEF50C03510982F6F0C53A8 /* Pods-MyFirstCocoaPodsLib_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyFirstCocoaPodsLib_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		70969DEFE1B750203493BB90DEAFB210 /* Pods-MyFirstCocoaPodsLib_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MyFirstCocoaPodsLib_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		8519DFD0C2FFEC1BD36C2C7FDB3C064F /* MyFirstCocoaPodsLib.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = MyFirstCocoaPodsLib.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		8519DFD0C2FFEC1BD36C2C7FDB3C064F /* MyFirstCocoaPodsLib0513.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = MyFirstCocoaPodsLib0513.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		95843FCAD30505F709133A9B53B6C26C /* MyFirstCocoaPodsLib */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MyFirstCocoaPodsLib; path = MyFirstCocoaPodsLib.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B4CC22D6516F794828EE71CF7B0EFF1 /* MyFirstCocoaPodsLib-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MyFirstCocoaPodsLib-prefix.pch"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
@@ -170,7 +170,7 @@
 			isa = PBXGroup;
 			children = (
 				DF14C5BD76D2B4D5B9F5647D3E5E8A39 /* LICENSE */,
-				8519DFD0C2FFEC1BD36C2C7FDB3C064F /* MyFirstCocoaPodsLib.podspec */,
+				8519DFD0C2FFEC1BD36C2C7FDB3C064F /* MyFirstCocoaPodsLib0513.podspec */,
 				282B448785CC7B0E5D93A1F77F0DE383 /* README.md */,
 			);
 			name = Pod;
