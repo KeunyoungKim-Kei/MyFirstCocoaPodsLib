@@ -1,0 +1,22 @@
+{
+  "name": "MyFirstCocoaPodsLib",
+  "version": "0.1.0",
+  "summary": "A short description of MyFirstCocoaPodsLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/KeunyoungKim-Kei/MyFirstCocoaPodsLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "KeunyoungKim-Kei": "kky0317@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/KeunyoungKim-Kei/MyFirstCocoaPodsLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MyFirstCocoaPodsLib/Classes/**/*"
+}
